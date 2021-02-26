@@ -4,7 +4,7 @@ contra =str(input("Por favor ingrese una contraseña: "))
 
 contra1 =str(input("Por favor ingrese nuevamente su contraseña: "))
 
-if contraseña!=contraseña1:
+if contra!=contra1:
     print("contraseña incorrecta")
 else:
     print("Contraseña aceptada")
