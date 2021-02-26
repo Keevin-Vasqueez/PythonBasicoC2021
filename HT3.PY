@@ -1,8 +1,8 @@
 #Ejercicio 1
 
-contraseña =str(input("Por favor ingrese una contraseña: "))
+contra =str(input("Por favor ingrese una contraseña: "))
 
-contraseña1 =str(input("Por favor ingrese nuevamente su contraseña: "))
+contra1 =str(input("Por favor ingrese nuevamente su contraseña: "))
 
 if contraseña!=contraseña1:
     print("contraseña incorrecta")
